@@ -1,5 +1,7 @@
 # Excel--sales-report--Vrinda-stores
 Vrinda Store sales Annual report.
+
+
 Sample Insight
 ---------------
 * Women are more likely to buy compared to men (~65%)
